@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vreqst-gh-pages/static/css/main.246c8ac2.chunk.css",
+    "main.js": "/vreqst-gh-pages/static/js/main.7959eaaf.chunk.js",
+    "main.js.map": "/vreqst-gh-pages/static/js/main.7959eaaf.chunk.js.map",
+    "runtime-main.js": "/vreqst-gh-pages/static/js/runtime-main.7f06eeef.js",
+    "runtime-main.js.map": "/vreqst-gh-pages/static/js/runtime-main.7f06eeef.js.map",
+    "static/js/2.ab937bb4.chunk.js": "/vreqst-gh-pages/static/js/2.ab937bb4.chunk.js",
+    "static/js/2.ab937bb4.chunk.js.map": "/vreqst-gh-pages/static/js/2.ab937bb4.chunk.js.map",
+    "index.html": "/vreqst-gh-pages/index.html",
+    "precache-manifest.20b9f7ba22af3638faf9744911f61dfb.js": "/vreqst-gh-pages/precache-manifest.20b9f7ba22af3638faf9744911f61dfb.js",
+    "service-worker.js": "/vreqst-gh-pages/service-worker.js",
+    "static/css/main.246c8ac2.chunk.css.map": "/vreqst-gh-pages/static/css/main.246c8ac2.chunk.css.map",
+    "static/js/2.ab937bb4.chunk.js.LICENSE.txt": "/vreqst-gh-pages/static/js/2.ab937bb4.chunk.js.LICENSE.txt",
+    "static/media/action.txt": "/vreqst-gh-pages/static/media/action.fdb795e9.txt",
+    "static/media/asset.txt": "/vreqst-gh-pages/static/media/asset.a80fba56.txt",
+    "static/media/scene.txt": "/vreqst-gh-pages/static/media/scene.a7a93f0d.txt",
+    "static/media/timeline.txt": "/vreqst-gh-pages/static/media/timeline.44f05b74.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f06eeef.js",
+    "static/js/2.ab937bb4.chunk.js",
+    "static/css/main.246c8ac2.chunk.css",
+    "static/js/main.7959eaaf.chunk.js"
+  ]
+}
